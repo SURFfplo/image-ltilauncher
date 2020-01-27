@@ -1,0 +1,3 @@
+LABEL image="ltilauncher"
+LABEL versie="0.1"
+LABEL datum="2020 01 23"
